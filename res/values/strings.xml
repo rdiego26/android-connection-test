@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Teste de conexão a Internet!</string>
+    <string name="app_name">Connection-test</string>
+	<string name="btn_test">Testar Internet</string>
+</resources>
